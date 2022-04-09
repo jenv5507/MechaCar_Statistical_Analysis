@@ -2,4 +2,4 @@
 
 ##Linear Regression to Predict MPG
 
-![](/Deliverable 1.png)
+![](/Deliverable1.png)
