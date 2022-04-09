@@ -43,14 +43,14 @@ Based on the results of the t-test, there is no evidence supporting a statistica
 
 ![](/Deliverable3b.png)
 
-Based on the resutls of the t-test on lot 1, there is no statistical difference from the standard 1,500 PSI.
+Based on the results of the t-test on lot 1, there is no statistical difference from the standard 1,500 PSI.
 
 ![](/Deliverable3c.png)
 
-Based on the resutls of the t-test on lot 2, there is no statistical difference from the standard 1,500 PSI.
+Based on the results of the t-test on lot 2, there is no statistical difference from the standard 1,500 PSI.
 
 ![](/Deliverable3d.png)
 
-Based on the resutls of the t-test on lot 3, there is a statistical difference from the standard 1,500 PSI since the p-value is less than .05.
+Based on the results of the t-test on lot 3, there is a statistical difference from the standard 1,500 PSI since the p-value is less than .05.
 
 
