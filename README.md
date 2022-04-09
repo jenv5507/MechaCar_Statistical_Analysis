@@ -30,3 +30,23 @@ In total, the design specifications are met since the variance is less than 100 
 <b>2. Does the current manufacturing data meet the design specification of not exceeding 100 pounds per square inch for the  manufacturing lots individually?</b>
 
 Lot 1 and 2 meet the design specification but lot 3 does not due the variance being 170.28.
+
+## T-Tests on Suspension Coils
+
+![](/Deliverable3.png)
+
+<b>1. T-Test Results of all manuafacturing lots.</b>
+
+Based on the results of the t-test, there is no evidence supporting a statistical difference from the standard 1,500 PSI when looking at all manufacturing lots.
+
+<b>1. T-Test Results of the individual manuafacturing lots.</b>
+
+![](/Deliverable3b.png)
+
+
+![](/Deliverable3c.png)
+
+
+![](/Deliverable3d.png)
+
+
