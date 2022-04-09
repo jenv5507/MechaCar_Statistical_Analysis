@@ -1,6 +1,6 @@
 # MechaCar_Statistical_Analysis
 
-##Linear Regression to Predict MPG
+## Linear Regression to Predict MPG
 
 ![](/Deliverable1.png)
 
@@ -17,7 +17,7 @@ The slope of the linear model is not considered to be zero as the p-value is 5.3
 
 Yes, the model does predict the mpg. Based on the adjusted r-squared value of .7149, the model is 71.49% likey to predict the mpg of MechaCare prototypes.
 
-##Summary Statistics on Suspension Coils
+## Summary Statistics on Suspension Coils
 
 ![](/Deliverable2.png)
 
@@ -29,4 +29,4 @@ In total, the design specifications are met since the variance is less than 100 
   
 <b>2. Does the current manufacturing data meet the design specification of not exceeding 100 pounds per square inch for the  manufacturing lots individually?</b>
 
-Lot 1 and 2 meet the design specification but lot 3 does not due the variance being 170.28
+Lot 1 and 2 meet the design specification but lot 3 does not due the variance being 170.28.
