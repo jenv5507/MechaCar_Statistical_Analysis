@@ -16,7 +16,7 @@ Yes, the model does predict the mpg. Based on the adjusted r-squared value of .7
 
 ##Summary Statistics on Suspension Coils
 ![](/Deliverable2.png)
-1. Does the current manufacturing data meet the design specification of not exceeding 100 pounds per square inch for all manufacturing lots?
+<b>1. Does the current manufacturing data meet the design specification of not exceeding 100 pounds per square inch for all manufacturing lots?
 
 In total, the design specifications are met since the variance is less than 100 pounds.
 
