@@ -53,4 +53,22 @@ Based on the results of the t-test on lot 2, there is no statistical difference 
 
 Based on the results of the t-test on lot 3, there is a statistical difference from the standard 1,500 PSI since the p-value is less than .05.
 
+## Study Design: MechaCar vs Competition
+To perform a study comparing MechaCar to the competion, I would focus on the miles per gallon, especially due to the increase in fuel costs.
+
+<b>1. What metrics are you going to test?</b>
+
+To test this, I would gather data for miles per gallon from the competition compared to the MechaCar
+
+<b>2. What is the null hypothesis or alternative hypothesis?</b>
+
+The null hypothesis is there is no difference between MechaCar and the competition when comparing the mpg.  The alternative is that there is a difference in mpg  
+
+<b>3. What statistical test would you use to test the hypothesis and why?</b>
+
+Since we are comparing two populations, we would run a two sample t-test.
+
+<b>4. What data is needed to run the statistical test?</b>
+Data for the mpg for the competition and MechaCar is needed to run the statistical testing.  We will need to run the t-tests to determine if the p-value is less than .05 which would mean that there is a statistical difference between the MechaCar and the competition.
+
 
